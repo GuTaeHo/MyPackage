@@ -3,6 +3,7 @@
 
 
 public class HelloWorld {
+    public init() { }
     public func printHelloWorld() {
         print("Hello, World!")
     }
